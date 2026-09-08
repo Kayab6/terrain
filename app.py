@@ -1,4 +1,3 @@
-    
     answer = processor.get_answer()
     if not answer:
         answer = "I'm sorry, I'm taking too long to think. Please try asking again."
